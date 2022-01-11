@@ -1533,7 +1533,7 @@ blockquote {
   .vertical-content {
     float: none;
     vertical-align: middle;
-    margin-top: 47%;
+    margin-top: 49%;
   }
 
   .intro-content h1 {
@@ -1571,7 +1571,7 @@ blockquote {
   .vertical-content {
     float: none;
     vertical-align: middle;
-    margin-top: 41%;
+    margin-top: 49%;
   }
 
   .intro-content h1 {
@@ -1591,7 +1591,7 @@ blockquote {
 
 @media (max-width: 425px) {
   .vertical-content {
-    margin-top: 45%;
+    margin-top: 53%;
   }
   
   .btn-intro {
@@ -1603,7 +1603,7 @@ blockquote {
 
 @media (max-width: 375px) {
   .vertical-content {
-    margin-top: 69%;
+    margin-top: 75%;
   }
   
   .btn-intro {
