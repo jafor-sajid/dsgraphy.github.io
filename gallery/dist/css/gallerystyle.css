@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@700&display=swap');
 /*--------------------------------------------------
     01. General Styles 
 ---------------------------------------------------*/
@@ -1521,6 +1522,8 @@ blockquote {
 
 
 /********** glry ******************/
+
+
 /*.scndbackground{
   background: url(../../image/forest-3622519.jpg);
   background-attachment: fixed;
@@ -1616,9 +1619,8 @@ blockquote {
   .items span{
     padding: 7px 15px;
     font-size: 15px;
-    font-weight: 400;
     letter-spacing: 1px;
-    font-family: fantasy;
+    font-family: 'Oswald', sans-serif;
     cursor: pointer;
     color: #ee5c22;
     border-radius: 1px;
