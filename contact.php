@@ -1,7 +1,7 @@
 <?php
 
 $send_to = "ahmad.deena4199@gmail.com"; 
-$send_subject = "Message From Humaira'S world ";
+$send_subject = "Message From Dsgraphy";
 
 
 $f_name = cleanupentries($_POST["name"]);
